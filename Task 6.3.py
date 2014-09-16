@@ -6,7 +6,7 @@ height = float(input("Please enter the depth of your swimming pool in metres: ")
 
 width = float(input("Please enter the width of your swimming pool in metres: "))
 
-length = float(input("Please enter the width of your swimming pool in metres: "))
+length = float(input("Please enter the length of your swimming pool in metres: "))
 
 volume = length*width*height
 
